@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Color-converter \u2014 Convert colors across Hex, RGB, HSL, and",
-  "version": "1.0.0",
-  "description": "Convert colors across Hex, RGB, HSL, and OKLCH color spaces offline.",
+  "name": "Color converter",
+  "version": "1.1.0",
+  "description": "Convert CSS hex, RGB, and HSL colors and calculate an accurate OKLCH value.",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
@@ -11,6 +11,6 @@
   "permissions": [],
   "action": {
     "default_popup": "popup.html",
-    "default_title": "Color-converter"
+    "default_title": "Color converter"
   }
 }
